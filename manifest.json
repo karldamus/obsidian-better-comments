@@ -1,10 +1,10 @@
 {
-	"id": "obsidian-sample-plugin",
-	"name": "Sample Plugin",
+	"id": "obsidian-better-comments",
+	"name": "Better Comments",
 	"version": "1.0.1",
 	"minAppVersion": "0.12.0",
-	"description": "This is a sample plugin for Obsidian. This plugin demonstrates some of the capabilities of the Obsidian API.",
-	"author": "Obsidian",
-	"authorUrl": "https://obsidian.md",
-	"isDesktopOnly": false
+	"description": "A plugin to create a better experience when adding comments to a markdown file in the Obsidian.md desktop application.",
+	"author": "Karl Damus",
+	"authorUrl": "https://github.com/karldamus/better-comments",
+	"isDesktopOnly": true
 }
